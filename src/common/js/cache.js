@@ -6,7 +6,7 @@ const SEARCH_MAX_LENGTH = 15
 const PLAY_KEY = '__play__'
 const PLAY_MAX_LENGTH = 200
 
-const FAVORITE_KEY = 'favorite'
+const FAVORITE_KEY = '__favorite__'
 const FAVORITE_MAX_LENGTH = 200
 
 function insertArray(arr,val,compare,maxLen){
